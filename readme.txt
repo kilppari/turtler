@@ -1,9 +1,8 @@
 #############################################
-#File:		Turtlerbot readme				#
-#Author:	Pekka Mäkinen					#
-#Source:	http://www.otit.fi/~kilppari/	#
-#Bot v.		0.9.8							#
-#Date:		06.02.2010						#
+#File:     Turtlerbot readme                #
+#Author:   Pekka Mäkinen                    #
+#Bot v.    0.9.8                            #
+#Date:     06.02.2010                       #
 #############################################
 
 In short: To run the bot, just type 'php run.php' on a command line.

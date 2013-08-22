@@ -4,7 +4,7 @@
  * @package none
  * @version 0.9.8
  *
- * Email: makinpek [ at ] paju.oulu.fi
+ * Email: makinpek [ at ] gmail.com
  *
  * Simple framework for an IRC bot. Enables easy implementation of user made functions and services.
  * Added user functions are implemented as commands for the bot. (Run only when called by other users)
